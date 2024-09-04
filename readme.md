@@ -45,7 +45,7 @@ To run this website locally, follow these steps:
 2. Navigate to the project directory:
    ```
    bash
-   cd sevyns-corner
+   cd Sevyns-Corner
    ```
 3. Open `index.html` in your preferred web browser.
 
