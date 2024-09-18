@@ -13,7 +13,7 @@ Welcome to **Sevyn's Corner**, a personal portfolio website designed to showcase
 - [Contact](#contact)
 
 ## Overview
-**Sevyn's Corner** is a professional portfolio website designed to highlight my journey as a Marine, parent, and cybersecurity professional. It includes sections on my background, cybersecurity projects, and ways to contact me. The site is built with HTML, CSS, and JavaScript, and uses the "Prologue" theme by HTML5 UP.
+**Sevyn's Corner** is a professional portfolio website designed to highlight my journey as a Marine, parent, and cybersecurity professional. It includes sections on my background, cybersecurity projects, and ways to contact me. The site is built with HTML, CSS, and JavaScript, and uses the "ZeroFour" theme by HTML5 UP.
 
 ## Features
  **Responsive Design:** Optimized for various devices and screen sizes.
