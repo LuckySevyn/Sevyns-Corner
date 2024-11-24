@@ -17,7 +17,7 @@
         }
         .interstitial {
             text-align: center;
-            background: white;
+            background: black;
             padding: 20px;
             border-radius: 8px;
             box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
@@ -42,11 +42,13 @@
         <h1>Welcome!</h1>
         <p>Before you continue, check out our latest updates or announcements.</p>
         <button onclick="redirect()">Continue to the Website</button>
+    </div>
+	<script>
 		document.cookie = "interstitialSeen=true; max-age=86400"; // 1 day
 		if (document.cookie.includes("interstitialSeen=true")) {
 		window.location.href = "index.html";
 		}
-    </div>
+	</script>
     <script>
         function redirect() {
             window.location.href = "main.html";
